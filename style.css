@@ -2,6 +2,12 @@ body {
 	font-family: "Comic Sans MS", Arial;
 }
 
+.bottomtext {
+	color: gray;
+	text-align: center;
+	font-size:1vw;
+}
+
 a:link {
 	color: blue;
 }
