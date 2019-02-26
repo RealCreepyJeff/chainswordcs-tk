@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Contents>
+	<Software>
+		<name>Shrek</name>
+		<description>Shrek</description>
+		<installtonand>false</installtonand>
+		<story1>Shrek Forever After</story1>
+		<game1>True Love Gift</game1>
+		<game1landscape>true</game1landscape>
+		<game2>Waffle Time</game2>
+		<game2landscape>true</game2landscape>
+		<game3>Witch Way Out</game3>
+		<game3landscape>true</game3landscape>
+		<notebook>true</notebook>
+		<artstudio>true</artstudio>
+		<photoalbum>true</photoalbum>
+		<audioplayer>true</audioplayer>
+		<project>206981</project>
+		<product>V6163</product>
+		<version>2.0.0.4</version>
+		<PID>206981</PID>
+	</Software>
+</Contents>
