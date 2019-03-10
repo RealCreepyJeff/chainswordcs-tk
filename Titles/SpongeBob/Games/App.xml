@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Contents>
+	<Background>SF_GMENU.bmp</Background>
+	<Game1>
+			<Icon>SF_GICON_01.bmp</Icon>
+			<Dis_Icon>SF_GICONB_01.bmp></Dis_Icon>
+			<SWF>main.swf</SWF>	
+	</Game1>
+	<Game2>
+			<Icon>SF_GICON_01.bmp</Icon>
+			<Dis_Icon>SF_GICONB_01.bmp></Dis_Icon>
+			<SWF>main.swf</SWF>	
+	</Game2>
+</Contents>
