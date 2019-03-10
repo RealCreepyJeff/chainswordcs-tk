@@ -3,7 +3,7 @@
 Resources for the website http://chainswordcs.tk/
 
 HTML and CSS code, and images. File downloads will be hosted elsewhere.
-Now also hosting some of the Fisher-Price iXL Learning System (abandonware) software.
+Now also hosting some of the Fisher-Price iXL Learning System software (abandonware).
 
 Testing branch is for testing code before it's pushed to the site, but only sometimes.
 
