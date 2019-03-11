@@ -1,0 +1,29 @@
+body {
+	font-family: Arial;
+}
+
+.bottomtext {
+	color: gray;
+	text-align: center;
+}
+
+.clickicon {
+	background-color: black;
+	color: white;
+	text-align: center;
+	height: 20%;
+	width: 20%;
+}
+	
+a:link {
+	color: blue;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+	color: hotpink;
+}
+a:active {
+	color: violet;
+}
